@@ -130,7 +130,8 @@ Execute the program using runserver command.
             </tr>
         </table>
     </body>
-</html> ```
+</html> 
+```
 
 ## OUTPUT
 ![alt text](image-1.png)
