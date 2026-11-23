@@ -32,10 +32,10 @@ Execute the program using runserver command.
         <title>Time Table</title>
     </head>
     <body>
-        <img src="logo.png"  height="110" hspace='510' width="650">
+        <img src="logo.png"  height="210"  width="435">
         <h3 align="center">MY TIME TABLE - INDRAJEET KAR (26011904)</h3>
-        <table border="2" cellspacing="5" cellpadding="6" align="center" style="background-color: rgb(238, 207, 5);">
-            <tr style="background-color: rgb(255, 4, 0);">
+        <table border="2" cellspacing="7" cellpadding="4" align="center" style="background-color: rgb(238, 207, 5);">
+            <tr style="background-color: red;">
                 <th >Day/Time</th>
                 <th>Monday</th>
                 <th>Tuesday</th>
@@ -45,7 +45,7 @@ Execute the program using runserver command.
                 <th>Saturday</th>
             </tr>
             <tr>
-                <td style="background-color: rgba(4, 0, 255, 0.904);">8:00-9:30</td>
+                <td style="background-color: blue;">8:00-9:30</td>
                 <td>PYT</td>
                 <td>MATH</td>
                 <td>FWAD</td>
@@ -54,17 +54,17 @@ Execute the program using runserver command.
                 <td>PS</td>
             </tr>
             <tr>
-                <td style="background-color: rgb(0, 255, 42);">9:45-11:15</td>
+                <td style="background-color: limegreen;">9:45-11:15</td>
                 <td>FWAD</td>
                 <td>MATH</td>
                 <td colspan="4" align="center">FREE SLOT</td>
             </tr>
             <tr>
-                <td style="background-color: rgb(252, 8, 248);">11:30-1:00</td>
+                <td style="background-color: pink;">11:30-1:00</td>
                 <td colspan="6" align="center"> MENTOR-MEET OR LUNCH</td>
             </tr>
             <tr>
-                <td style="background-color: rgb(0, 68, 255);">1:15-2:45</td>
+                <td style="background-color: blueviolet;">1:15-2:45</td>
                 <td>FREE SLOT</td>
                 <td>FWAD</td>
                 <td>FREE SLOT</td>
@@ -73,7 +73,7 @@ Execute the program using runserver command.
                 <td>FREE SLOT</td>
             </tr>
             <tr>
-                <td style="background-color: rgb(221, 241, 7);">3:00-4:30</td>
+                <td style="background-color: yellow;">3:00-4:30</td>
                 <td>EDM</td>
                 <td>FREE SLOT</td>
                 <td>CDS</td>
@@ -82,7 +82,7 @@ Execute the program using runserver command.
                 <td>FREE SLOT</td>
             </tr>
         </table><br><br><br>
-        <table border="2" cellspacing="5" cellpadding="6" align="center">
+        <table border="2" cellspacing="3" cellpadding="7" align="center">
             <tr>
                 <th>S.NO</th>
                 <th>Subject Code</th>
@@ -130,11 +130,11 @@ Execute the program using runserver command.
             </tr>
         </table>
     </body>
-</html> 
+</html>
 ```
 
 ## OUTPUT
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
